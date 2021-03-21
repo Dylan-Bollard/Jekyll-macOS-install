@@ -138,7 +138,7 @@ Simply go into your web browser and put in whats's after the server address fiel
 ~~~~
 gem env
 ~~~~
-is your best bet right off the bat to see if all of the locations are in order. If not, [this reference]{https://www.moncefbelyamani.com/the-definitive-guide-to-installing-ruby-gems-on-a-mac/} on Ruby in general should be helpful, or [this reference]{https://stackoverflow.com/questions/28072128/zsh-command-not-found-bundle-after-gem-install-bundle} which helps you setup an alias for Jekyll. 
+is your best bet right off the bat to see if all of the locations are in order. If not, [this reference](https://www.moncefbelyamani.com/the-definitive-guide-to-installing-ruby-gems-on-a-mac/) on Ruby in general should be helpful, or [this reference](https://stackoverflow.com/questions/28072128/zsh-command-not-found-bundle-after-gem-install-bundle) which helps you setup an alias for Jekyll. 
 
 macOS is tricky to work with, but you're doing great. Just remember, nothing will work unless 
 ~~~~
